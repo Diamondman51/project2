@@ -1,0 +1,9 @@
+.name {
+    font-size: 24px;
+    color: red;
+}
+
+.input_n {
+    border-radius: 15px;
+    width: 400px;
+}
